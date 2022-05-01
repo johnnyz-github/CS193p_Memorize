@@ -13,3 +13,8 @@ var remove : some View
 LazyVGrid
 aspectRatio
 StrokeBorder
+
+lecture3
+generic
+static -- global with name space
+private(set)
