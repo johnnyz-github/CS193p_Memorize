@@ -18,3 +18,7 @@ lecture3
 generic
 static -- global with name space
 private(set)
+opacity 0
+@escaping
+@ViewBuilder
+
